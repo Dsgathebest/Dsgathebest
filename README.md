@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Santiago Gómez Abril:octocat:</h1> 
 <div style="display: flex; align-items: flex-start;">
+  <div>
+    <img align="right" src="./src/programmer.PNG" alt="@danielabril2003" width="200" />
+  </div>
   <div style="flex: 1;">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -56,9 +59,7 @@
       </a>
     </p>
   </div>
-  <div>
-    <img align="right" src="./src/programmer.PNG" alt="@danielabril2003" width="300" />
-  </div>
+  
 </div>
 <hr>
 <div align="center">
