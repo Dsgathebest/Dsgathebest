@@ -59,8 +59,8 @@
       </a>
     </p>
   </div>
-  
 </div>
+<br>
 <hr>
 <div align="center">
   <a href="https://github.com/Dsgathebest/github-readme-stats">
