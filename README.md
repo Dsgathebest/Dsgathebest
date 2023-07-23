@@ -3,7 +3,9 @@
 
 <hr>
 <div align ="center">
-<a href="https://github.com/Dsgathebest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dsgathebest&show_icons=true&locale=en&theme=holi&rank_icon=github" alt="Dsgathebest" /></a><a href="https://github.com/Dsgathebest/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dsgathebest&theme=holi-theme" alt="Dsgathebest"/> 
+<a href="https://github.com/Dsgathebest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dsgathebest&show_icons=true&locale=en&theme=holi&rank_icon=github" alt="Dsgathebest" /></a>
+<hr>  
+<a href="https://github.com/Dsgathebest/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dsgathebest&theme=holi-theme" alt="Dsgathebest"/> 
 
 
 <hr>
