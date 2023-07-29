@@ -75,9 +75,9 @@
 </div>
 <hr>
 <div align="center">
-  <a href="https://github.com/Dsgathebest/nafnaf-scraper">
+<!--   <a href="https://github.com/Dsgathebest/nafnaf-scraper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dsgathebest&repo=nafnaf-scraper&theme=yeblu" />
-  </a>
+  </a> -->
   <a href="https://github.com/Dsgathebest/tool-library">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dsgathebest&repo=tool-library&theme=yeblu" />
   </a>
