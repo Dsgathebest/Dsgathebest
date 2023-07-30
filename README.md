@@ -63,15 +63,9 @@
 <br>
 <hr>
 <div align="center">
-  <a href="https://github.com/Dsgathebest/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dsgathebest&show_icons=true&locale=en&theme=holi&rank_icon=github" alt="Dsgathebest" />
-  </a>
-</div>
-<hr>
-<div align="center">
-  <a href="https://github.com/Dsgathebest/github-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dsgathebest&theme=holi-theme" alt="Dsgathebest"/>
-  </a>
+    <img width ="400"align="center" src="https://github-readme-stats.vercel.app/api?username=Dsgathebest&show_icons=true&locale=en&theme=holi&rank_icon=github" alt="Dsgathebest" />  
+    <img width ="425"align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dsgathebest&theme=holi-theme" alt="Dsgathebest"/>  <br>
+    <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Dsgathebest&theme=react-dark&area=true&hide_border=false"/>
 </div>
 <hr>
 <div align="center">
@@ -82,5 +76,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dsgathebest&repo=tool-library&theme=yeblu" />
   </a>
 </div>
-
 
